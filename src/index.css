@@ -1,0 +1,35 @@
+body{
+
+background-color:whitesmoke;
+
+
+}
+.R{
+
+
+align-content: center;
+width:15%;
+height:30%;
+margin-left: 40%;
+margin-top:5%;
+}
+.R input{
+padding: 16px;
+margin:4px;
+cursor:pointer;
+border-radius: 10px;
+width:100%;
+text-align:center;
+}
+
+.R input:hover{
+  border:4px solid 	#dcdcdc;
+  background-color: 	#C0C0C0;
+ ;
+}
+button{
+margin-left:90px;
+margin-top:3px;
+padding:10px;
+text-align:center;
+}
